@@ -4,7 +4,7 @@ A Tabela 2 a seguir contém os Requisitos Não Funcionais (RNF) elicitados utiza
  |  ID |  Requisito NF | Categoria  | Prioridade  |  Requisitos Relacionados   |
 |---|---|---|---|---|
 | RNF01  |   |   |   |   |
-| RNF02  |O aplicativo deve ser responsivo, com tempos de resposta rápidos para uma experiência fluida.   |   |   |   |
+| RNF02  |O aplicativo deve ser responsivo, com tempos de resposta rápidos para uma experiência fluida.   |  Segurança |  Alta prioridade |   |
 | RNF03  |   |   |   |   |
 
 
