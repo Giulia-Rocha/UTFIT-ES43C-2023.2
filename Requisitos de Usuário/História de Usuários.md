@@ -11,7 +11,6 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
 | US5 | Como usuário, desejo receber lembretes por notificações sobre o consumo de água. | - Devo receber notificações lembrando-me de beber água ao longo do dia. - Deve ser possível configurar a frequência e horários dos lembretes. | Baixa | RF05 |
 | US6 | Como usuário, desejo cadastrar os alimentos da minha dieta no aplicativo. | - Deve haver uma função para adicionar alimentos à minha dieta. - Devo ser capaz de inserir informações sobre os alimentos, como nome e quantidade. | Média | RF06 |
 | US7 | Como usuário, desejo que o aplicativo calcule as calorias de cada alimento cadastrado. | - O aplicativo deve calcular automaticamente as calorias com base nas informações inseridas sobre os alimentos. - Devo ser capaz de visualizar as informações de calorias na minha dieta. | Baixa | RF07 |
-Tabela 3: História de Usuário
 
 # 2. Referências
 
