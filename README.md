@@ -12,7 +12,7 @@
 
 
 * Integrantes:
-    * Giulia Rocha  https://github.com/Giulia-Rocha
+    * [Giulia Rocha](https://github.com/Giulia-Rocha)
     * Mateus Chicoli
     * Rodrigo Sugimoto
     * Gabriel Afini
