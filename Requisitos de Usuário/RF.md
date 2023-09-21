@@ -2,7 +2,7 @@
 
   |  ID |  Requisito   | Prioridade  |  Requisitos Relacionados   |
 |---|---|---|---|
-| RF01  | O sistema deve permitir que o usuário cadastre um perfil |  Alta |   |
+| RF01  | O sistema deve permitir que os usuários criem contas usando informações como nome, email e senha. |  Alta |   |
 | RF02  | O sistema deve permitir que o usuário personalize seu perfil  | Média  | RF01  |
 | RF03  | O sistema deve permitir que o usuário planeje os próprios treinos  | Alta  |   |
 |RF04| O sistema deve enivar um relatório sobre cada treino| Média| |
