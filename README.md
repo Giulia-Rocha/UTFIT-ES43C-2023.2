@@ -15,9 +15,9 @@
     * [Giulia Rocha](https://github.com/Giulia-Rocha)
     * [Mateus Chicoli](https://github.com/MChicoli)
     * [Rodrigo Sugimoto](https://github.com/RodrigoSugimoto)
-    * Gabriel Afini
-    * Anny Vitoria
-    * Isabelle Lays
+    * [Gabriel Afini](https://github.com/AzumaNoDoragon)
+    * [Anny Vitoria](https://github.com/Annyyzinha)
+    * [Isabelle Lays](https://github.com/zabelelays)
 
 
                       
