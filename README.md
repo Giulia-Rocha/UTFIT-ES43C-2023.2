@@ -13,8 +13,8 @@
 
 * Integrantes:
     * [Giulia Rocha](https://github.com/Giulia-Rocha)
-    * Mateus Chicoli
-    * Rodrigo Sugimoto
+    * [Mateus Chicoli](https://github.com/MChicoli)
+    * [Rodrigo Sugimoto](https://github.com/RodrigoSugimoto)
     * Gabriel Afini
     * Anny Vitoria
     * Isabelle Lays
