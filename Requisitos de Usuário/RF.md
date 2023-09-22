@@ -9,6 +9,8 @@
 | RF05| O sistema deve enviar lembretes por notificações alertando o consumo de água| Baixa| |
 | RF06 | O sistema deve permitir que o usuário cadastre os alimentos da sua dieta | Média| |
 | RF07| O sistema deve calcular as calorias de cada alimento cadastrado| Baixa | |
-
+| RF08 | O  sistema deve gerar sugestões de treinos de acordo com o formulário preenchido pelo usuário | Média|RF09|
+| RF09| O sistema deve apresentar um formulário que tem como função receber dados dos objetivos do usuário| Alta| |
+| RF10| O sistema deve gerar relatórios de uma visão geral do progresso do usuário| Média| RF04|
 
 # 2. Referências
